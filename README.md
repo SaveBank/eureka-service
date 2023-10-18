@@ -12,4 +12,4 @@ Microservice:
 7. loans  http://localhost:8090
 
 Eureka server
-![](C:\Project applications\Save Bank\Capture.PNG)
+![Capture](https://github.com/SaveBank/eureka-service/assets/51233317/050b49c6-fbb3-4f60-99ab-e6a25bbfff92)
